@@ -1,0 +1,23 @@
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Сурин А.А\ПАПАКА\ДемоЭкз\ДемоЭкз\obj\Debug\ДемоЭкз.csprojAssemblyReference.cache
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Сурин А.А\ПАПАКА\ДемоЭкз\ДемоЭкз\obj\Debug\ДемоЭкз.Properties.Resources.resources
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Сурин А.А\ПАПАКА\ДемоЭкз\ДемоЭкз\obj\Debug\ДемоЭкз.csproj.GenerateResource.cache
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Сурин А.А\ПАПАКА\ДемоЭкз\ДемоЭкз\obj\Debug\ДемоЭкз.csproj.CoreCompileInputs.cache
+C:\Users\СуринАА\Desktop\ДемоЭкз\ДемоЭкз\bin\Debug\ДемоЭкз.exe.config
+C:\Users\СуринАА\Desktop\ДемоЭкз\ДемоЭкз\bin\Debug\ДемоЭкз.exe
+C:\Users\СуринАА\Desktop\ДемоЭкз\ДемоЭкз\bin\Debug\ДемоЭкз.pdb
+C:\Users\СуринАА\Desktop\ДемоЭкз\ДемоЭкз\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\СуринАА\Desktop\ДемоЭкз\ДемоЭкз\bin\Debug\System.Security.AccessControl.dll
+C:\Users\СуринАА\Desktop\ДемоЭкз\ДемоЭкз\bin\Debug\System.Security.Permissions.dll
+C:\Users\СуринАА\Desktop\ДемоЭкз\ДемоЭкз\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\СуринАА\Desktop\ДемоЭкз\ДемоЭкз\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\СуринАА\Desktop\ДемоЭкз\ДемоЭкз\bin\Debug\System.Security.AccessControl.xml
+C:\Users\СуринАА\Desktop\ДемоЭкз\ДемоЭкз\bin\Debug\System.Security.Permissions.xml
+C:\Users\СуринАА\Desktop\ДемоЭкз\ДемоЭкз\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\СуринАА\Desktop\ДемоЭкз\ДемоЭкз\obj\Debug\ДемоЭкз.csprojAssemblyReference.cache
+C:\Users\СуринАА\Desktop\ДемоЭкз\ДемоЭкз\obj\Debug\ДемоЭкз.Auth.resources
+C:\Users\СуринАА\Desktop\ДемоЭкз\ДемоЭкз\obj\Debug\ДемоЭкз.Properties.Resources.resources
+C:\Users\СуринАА\Desktop\ДемоЭкз\ДемоЭкз\obj\Debug\ДемоЭкз.csproj.GenerateResource.cache
+C:\Users\СуринАА\Desktop\ДемоЭкз\ДемоЭкз\obj\Debug\ДемоЭкз.csproj.CoreCompileInputs.cache
+C:\Users\СуринАА\Desktop\ДемоЭкз\ДемоЭкз\obj\Debug\ДемоЭкз.csproj.CopyComplete
+C:\Users\СуринАА\Desktop\ДемоЭкз\ДемоЭкз\obj\Debug\ДемоЭкз.exe
+C:\Users\СуринАА\Desktop\ДемоЭкз\ДемоЭкз\obj\Debug\ДемоЭкз.pdb
