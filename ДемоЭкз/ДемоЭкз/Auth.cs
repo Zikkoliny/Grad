@@ -33,7 +33,7 @@ namespace ДемоЭкз
         }
 
 
-        private void button1_Click(object sender, EventArgs e)
+        private void Button1_Click(object sender, EventArgs e)
         {
             Log = Login.Text.Trim();
             Password = Pass.Text.Trim();
@@ -42,7 +42,7 @@ namespace ДемоЭкз
             {
                 Int32 countUser = 0;
                 SqlCommand command = new SqlCommand();
-                command.CommandText = "SELECT COUNT (*) FROM [dbo].[User] WHERE Login = @Login AND Password = @Password";
+                command.CommandText = "SELECT COUNT (*) FROM [dbo].[users] WHERE Login = @login AND Password = @pass";
                 command.Connection = connection;
 
                 command.Parameters.Add("@Login", SqlDbType.VarChar); // НУ ТУТ КАРОЧИ ПЕРЕВОД БУКАФ В СТРИНГ

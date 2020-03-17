@@ -21,3 +21,22 @@ C:\Users\СуринАА\Desktop\ДемоЭкз\ДемоЭкз\obj\Debug\Демо
 C:\Users\СуринАА\Desktop\ДемоЭкз\ДемоЭкз\obj\Debug\ДемоЭкз.csproj.CopyComplete
 C:\Users\СуринАА\Desktop\ДемоЭкз\ДемоЭкз\obj\Debug\ДемоЭкз.exe
 C:\Users\СуринАА\Desktop\ДемоЭкз\ДемоЭкз\obj\Debug\ДемоЭкз.pdb
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Сурин А.А\ГАРАД\ДемоЭкз\ДемоЭкз\bin\Debug\ДемоЭкз.exe.config
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Сурин А.А\ГАРАД\ДемоЭкз\ДемоЭкз\bin\Debug\ДемоЭкз.exe
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Сурин А.А\ГАРАД\ДемоЭкз\ДемоЭкз\bin\Debug\ДемоЭкз.pdb
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Сурин А.А\ГАРАД\ДемоЭкз\ДемоЭкз\bin\Debug\System.Configuration.ConfigurationManager.dll
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Сурин А.А\ГАРАД\ДемоЭкз\ДемоЭкз\bin\Debug\System.Security.AccessControl.dll
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Сурин А.А\ГАРАД\ДемоЭкз\ДемоЭкз\bin\Debug\System.Security.Permissions.dll
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Сурин А.А\ГАРАД\ДемоЭкз\ДемоЭкз\bin\Debug\System.Security.Principal.Windows.dll
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Сурин А.А\ГАРАД\ДемоЭкз\ДемоЭкз\bin\Debug\System.Configuration.ConfigurationManager.xml
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Сурин А.А\ГАРАД\ДемоЭкз\ДемоЭкз\bin\Debug\System.Security.AccessControl.xml
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Сурин А.А\ГАРАД\ДемоЭкз\ДемоЭкз\bin\Debug\System.Security.Permissions.xml
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Сурин А.А\ГАРАД\ДемоЭкз\ДемоЭкз\bin\Debug\System.Security.Principal.Windows.xml
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Сурин А.А\ГАРАД\ДемоЭкз\ДемоЭкз\obj\Debug\ДемоЭкз.csprojAssemblyReference.cache
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Сурин А.А\ГАРАД\ДемоЭкз\ДемоЭкз\obj\Debug\ДемоЭкз.Auth.resources
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Сурин А.А\ГАРАД\ДемоЭкз\ДемоЭкз\obj\Debug\ДемоЭкз.Properties.Resources.resources
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Сурин А.А\ГАРАД\ДемоЭкз\ДемоЭкз\obj\Debug\ДемоЭкз.csproj.GenerateResource.cache
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Сурин А.А\ГАРАД\ДемоЭкз\ДемоЭкз\obj\Debug\ДемоЭкз.csproj.CoreCompileInputs.cache
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Сурин А.А\ГАРАД\ДемоЭкз\ДемоЭкз\obj\Debug\ДемоЭкз.csproj.CopyComplete
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Сурин А.А\ГАРАД\ДемоЭкз\ДемоЭкз\obj\Debug\ДемоЭкз.exe
+Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Сурин А.А\ГАРАД\ДемоЭкз\ДемоЭкз\obj\Debug\ДемоЭкз.pdb
